@@ -1,0 +1,19 @@
+body {
+  padding: 10px;
+  background-color: #011f4b;
+  color: #e75480;
+}
+
+.card-header, .reply {
+  background-color: #011f4b;
+  color: white;
+}
+.card-body {
+  background-color: #e75480;
+  color: white;
+}
+
+.thread {
+  background-color: #012964;
+}
+
